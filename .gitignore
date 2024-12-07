@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# SASS cache
+.sass-cache/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+
+# Package lock files (if you only use Yarn)
+package-lock.json
