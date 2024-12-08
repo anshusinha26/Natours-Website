@@ -8,7 +8,7 @@ Link: https://natours-anshusinha.netlify.app/
 
 ## 📸 Screenshots
 
-![Frontend](final-images/natours_website.png)
+![Frontend](final-images/natours_website.webp)
 
 ---
 
